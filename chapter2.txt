@@ -1,0 +1,2 @@
+A smart contract is a digital agreement that executes when specified conditions are met.
+Smart contracts can be written in solidity or rust.
